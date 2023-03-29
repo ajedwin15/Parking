@@ -26,24 +26,3 @@ y el proyecto listo para usar
 ![image](https://user-images.githubusercontent.com/82296540/228608494-8171ad19-86bf-4bda-ac13-3553ca873970.png)
 
 # con esto deberia ser suficiente para inciar su proyecto 
-
-#Diagrama de clases 
-
-+---------------+        +-------------------+       +---------------------+
-|   Vehicle     |        |      Resident     |       |  OfficialVehicle     |
-+---------------+        +-------------------+       +---------------------+
-| -VehicleId    |        | -PlateNumber      |       | -PlateNumber         |
-| -PlateNumber  |<>------| -TotalMinutes     |       | -VehicleType         |
-| -TotalMinutes |        | -VehicleType      |       | +Instances: ICollection<Instance> |
-| -IsPaid       |        | +Instances: ICollection<Instance> | 
-| +Residents: ICollection<Resident> |       +---------------------+
-| +OfficialVehicles: ICollection<OfficialVehicle> |
-+---------------+
-
-+-----------+
-|  Instance |
-+-----------+
-| -InstanceId |
-| -EntryTime |
-| -DepartureTime |
-+-----------+
