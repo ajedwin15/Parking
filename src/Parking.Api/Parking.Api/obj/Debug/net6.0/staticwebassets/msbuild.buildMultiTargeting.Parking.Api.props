@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Parking.Api.props" />
+</Project>

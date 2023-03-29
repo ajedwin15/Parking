@@ -1,0 +1,14 @@
+C:\Users\edwin jimenez\Downloads\Doc Edwin\proyec\Parking\src\Parking.Api\DB\bin\Debug\net6.0\DB.deps.json
+C:\Users\edwin jimenez\Downloads\Doc Edwin\proyec\Parking\src\Parking.Api\DB\bin\Debug\net6.0\DB.dll
+C:\Users\edwin jimenez\Downloads\Doc Edwin\proyec\Parking\src\Parking.Api\DB\bin\Debug\net6.0\DB.pdb
+C:\Users\edwin jimenez\Downloads\Doc Edwin\proyec\Parking\src\Parking.Api\DB\obj\Debug\net6.0\DB.csproj.AssemblyReference.cache
+C:\Users\edwin jimenez\Downloads\Doc Edwin\proyec\Parking\src\Parking.Api\DB\obj\Debug\net6.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin jimenez\Downloads\Doc Edwin\proyec\Parking\src\Parking.Api\DB\obj\Debug\net6.0\DB.AssemblyInfoInputs.cache
+C:\Users\edwin jimenez\Downloads\Doc Edwin\proyec\Parking\src\Parking.Api\DB\obj\Debug\net6.0\DB.AssemblyInfo.cs
+C:\Users\edwin jimenez\Downloads\Doc Edwin\proyec\Parking\src\Parking.Api\DB\obj\Debug\net6.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\edwin jimenez\Downloads\Doc Edwin\proyec\Parking\src\Parking.Api\DB\obj\Debug\net6.0\DB.dll
+C:\Users\edwin jimenez\Downloads\Doc Edwin\proyec\Parking\src\Parking.Api\DB\obj\Debug\net6.0\refint\DB.dll
+C:\Users\edwin jimenez\Downloads\Doc Edwin\proyec\Parking\src\Parking.Api\DB\obj\Debug\net6.0\DB.pdb
+C:\Users\edwin jimenez\Downloads\Doc Edwin\proyec\Parking\src\Parking.Api\DB\obj\Debug\net6.0\ref\DB.dll
+C:\Users\edwin jimenez\Downloads\Doc Edwin\proyec\Parking\src\Parking.Api\DB\bin\Debug\net6.0\DB.runtimeconfig.json
+C:\Users\edwin jimenez\Downloads\Doc Edwin\proyec\Parking\src\Parking.Api\DB\obj\Debug\net6.0\DB.genruntimeconfig.cache
