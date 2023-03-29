@@ -5,6 +5,7 @@ ParkingApp
 # Iniciar Base de Datos
 
 El proyecto esta realizado con entity framework y sql server
+El proyecto esta realizado con entity framework
 Para configurar la base de datos y las tablas
 
 - Ejecute como proyecto de inicio Parking.Api
@@ -21,4 +22,5 @@ y el proyecto listo para usar
 
 *Entre en la ruta Parking/src/Parking.Api
 *Cree el archivo appsettings.json con el ejemplo de del archico appsettings.Development
-\*en el apartado server solo coloque su servidor de sql
+*en el apartado server solo coloque su servidor de sql
+
