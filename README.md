@@ -27,3 +27,23 @@ y el proyecto listo para usar
 
 # con esto deberia ser suficiente para inciar su proyecto 
 
+#Diagrama de clases 
+
++---------------+        +-------------------+       +---------------------+
+|   Vehicle     |        |      Resident     |       |  OfficialVehicle     |
++---------------+        +-------------------+       +---------------------+
+| -VehicleId    |        | -PlateNumber      |       | -PlateNumber         |
+| -PlateNumber  |<>------| -TotalMinutes     |       | -VehicleType         |
+| -TotalMinutes |        | -VehicleType      |       | +Instances: ICollection<Instance> |
+| -IsPaid       |        | +Instances: ICollection<Instance> | 
+| +Residents: ICollection<Resident> |       +---------------------+
+| +OfficialVehicles: ICollection<OfficialVehicle> |
++---------------+
+
++-----------+
+|  Instance |
++-----------+
+| -InstanceId |
+| -EntryTime |
+| -DepartureTime |
++-----------+
