@@ -23,4 +23,7 @@ y el proyecto listo para usar
 *Entre en la ruta Parking/src/Parking.Api
 *Cree el archivo appsettings.json con el ejemplo de del archico appsettings.Development
 *en el apartado server solo coloque su servidor de sql
+![image](https://user-images.githubusercontent.com/82296540/228608494-8171ad19-86bf-4bda-ac13-3553ca873970.png)
+
+# con esto deberia ser suficiente para inciar su proyecto 
 
